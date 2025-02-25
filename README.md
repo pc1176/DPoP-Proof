@@ -1,10 +1,11 @@
 # DPoP-Proof
 Client-Side Flow(JWTClient) Client:
-Generate RSA key pair.
-Create DPoP proof for login.
-Send login request with DPoP proof.
-Store access token.
-Create DPoP proof with access token hash for subsequent request.
+
+1. Generate RSA key pair.
+2. Create DPoP proof for login.
+3. Send login request with DPoP proof.
+4. Store access token.
+5. Create DPoP proof with access token hash for subsequent request.
 
 Server-Side Flow(JWTWithDPoP) Server:
 Validate DPoP proof structure.
