@@ -1,0 +1,14 @@
+D:\JWTClient\bin\Debug\net8.0\JWTClient.exe
+D:\JWTClient\bin\Debug\net8.0\JWTClient.deps.json
+D:\JWTClient\bin\Debug\net8.0\JWTClient.runtimeconfig.json
+D:\JWTClient\bin\Debug\net8.0\JWTClient.dll
+D:\JWTClient\bin\Debug\net8.0\JWTClient.pdb
+D:\JWTClient\obj\Debug\net8.0\JWTClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\JWTClient\obj\Debug\net8.0\JWTClient.AssemblyInfoInputs.cache
+D:\JWTClient\obj\Debug\net8.0\JWTClient.AssemblyInfo.cs
+D:\JWTClient\obj\Debug\net8.0\JWTClient.csproj.CoreCompileInputs.cache
+D:\JWTClient\obj\Debug\net8.0\JWTClient.dll
+D:\JWTClient\obj\Debug\net8.0\refint\JWTClient.dll
+D:\JWTClient\obj\Debug\net8.0\JWTClient.pdb
+D:\JWTClient\obj\Debug\net8.0\JWTClient.genruntimeconfig.cache
+D:\JWTClient\obj\Debug\net8.0\ref\JWTClient.dll
