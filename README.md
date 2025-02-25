@@ -8,9 +8,9 @@ Client-Side Flow(JWTClient) Client:
 5. Create DPoP proof with access token hash for subsequent request.
 
 Server-Side Flow(JWTWithDPoP) Server:
-Validate DPoP proof structure.
-Verify signature using public key from JWK.
-Validate required claims.
-Check JTI uniqueness.
-Verify access token binding (if applicable).
-Generate and validate nonces.
+1. Validate DPoP proof structure.
+2. Verify signature using public key from JWK.
+3. Validate required claims.
+4. Check JTI uniqueness.
+5. Verify access token binding (if applicable).
+6. Generate and validate nonces.
