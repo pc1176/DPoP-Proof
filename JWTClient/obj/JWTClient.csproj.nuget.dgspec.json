@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JWTClient\\JWTClient.csproj": {}
+    "D:\\DPoP-Proof\\JWTClient\\JWTClient.csproj": {}
   },
   "projects": {
-    "D:\\JWTClient\\JWTClient.csproj": {
+    "D:\\DPoP-Proof\\JWTClient\\JWTClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JWTClient\\JWTClient.csproj",
+        "projectUniqueName": "D:\\DPoP-Proof\\JWTClient\\JWTClient.csproj",
         "projectName": "JWTClient",
-        "projectPath": "D:\\JWTClient\\JWTClient.csproj",
+        "projectPath": "D:\\DPoP-Proof\\JWTClient\\JWTClient.csproj",
         "packagesPath": "C:\\Users\\priya.chauhan\\.nuget\\packages\\",
-        "outputPath": "D:\\JWTClient\\obj\\",
+        "outputPath": "D:\\DPoP-Proof\\JWTClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

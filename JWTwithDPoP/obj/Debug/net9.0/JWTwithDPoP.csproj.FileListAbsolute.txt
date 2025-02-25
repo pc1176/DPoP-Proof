@@ -1,0 +1,7 @@
+D:\JWTwithDPoP\obj\Debug\net9.0\JWTwithDPoP.csproj.AssemblyReference.cache
+D:\JWTwithDPoP\obj\Debug\net9.0\JWTwithDPoP.GeneratedMSBuildEditorConfig.editorconfig
+D:\JWTwithDPoP\obj\Debug\net9.0\JWTwithDPoP.AssemblyInfoInputs.cache
+D:\JWTwithDPoP\obj\Debug\net9.0\JWTwithDPoP.AssemblyInfo.cs
+D:\JWTwithDPoP\obj\Debug\net9.0\JWTwithDPoP.csproj.CoreCompileInputs.cache
+D:\JWTwithDPoP\obj\Debug\net9.0\JWTwithDPoP.MvcApplicationPartsAssemblyInfo.cs
+D:\JWTwithDPoP\obj\Debug\net9.0\JWTwithDPoP.MvcApplicationPartsAssemblyInfo.cache
